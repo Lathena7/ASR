@@ -1,0 +1,24 @@
+title: ASR
+
+version: 1.0
+
+route: 
+  use: ./main.yaml
+
+config:
+ - use: Pistonight/celer-presets/botw/full.yaml
+
+ - icons:
+    pad: https://icons.pistonite.org/icon/misc.korok.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    king: https://icons.pistonite.org/icon/character.king.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+
+
+ - plugins:
+    - use: link
+    - use: variables
+    
+    
+    
+
+  
+
