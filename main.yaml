@@ -3,7 +3,7 @@
 - Plateau:
     - .!!(SoR):
         icon: location
-        notes: Watch cutscene for time of ay
+        notes: Watch cutscene for time of day
     
     - _Equipment::Weapon<Tree Branch>:
         coord: [-1001,1862.75]
